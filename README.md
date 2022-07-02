@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SyncereHS
-- 👀 I’m interested in ... Python, HTML, CSS, JavaScript
-- 🌱 I’m currently learning ... Full Stack Enginnering 
-- 💞️ I’m looking to collaborate on ... Nothing at the moment
-- 📫 How to reach me ... SyncereHSmith@gmail.com
+- 👋🏽 I’m @SyncereHS
+- 🎓 Learning Python,HTML,CSS,JavaScript
+- 💻 Interesting in Full Stack Enginnering 
+- 🐍 General Python projects
 
 <!---
 SyncereHS/SyncereHS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
