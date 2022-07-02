@@ -22,7 +22,7 @@
   
   
 
-- 💻 Interesting in Full Stack Engineering
+- 💻 Interested in Full Stack Engineering
   
  
   
