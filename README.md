@@ -12,6 +12,10 @@
 # About Me
   
   
+- 👋🏽 I’m @SyncereHS
+
+
+
 
 - 🎓 Learning Python,HTML,CSS,JavaScript
 
@@ -20,10 +24,7 @@
 
 - 💻 Interesting in Full Stack Engineering
   
-  
-
-
-- 👋🏽 I’m @SyncereHS
+ 
   
   
 
